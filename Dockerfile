@@ -7,3 +7,4 @@ COPY testPlan /home/testPlan
 COPY configtestread.jar /home/
 COPY configtestwrite.jar /home/
 COPY benchmark.bash /home/
+RUN chmod +x /home/benchmark.bash
