@@ -1,2 +1,7 @@
 testData/auto/
 testData/auto/AutoTestLog.txt
+dependencies/utp4j-fork/.idea
+dependencies/utp4j-fork/.settings
+dependencies/utp4j-fork/out
+dependencies/utp4j-fork/target
+dependencies/utp4j-fork/testData/auto/
