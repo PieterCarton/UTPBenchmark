@@ -1,0 +1,3 @@
+[submodule "utp4j"]
+	path = utp4j
+	url = git@github.com:PieterCarton/utp4j.git
